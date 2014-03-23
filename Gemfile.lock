@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    chawk_rails (0.0.1)
-      chawk (~> 0.1.16)
+    chawk_rails (0.0.5)
+      chawk (= 0.1.18)
       rails (~> 4.0.4)
 
 GEM
@@ -35,7 +35,7 @@ GEM
     arel (4.0.2)
     atomic (1.1.16)
     builder (3.1.4)
-    chawk (0.1.16)
+    chawk (0.1.18)
       activerecord (= 4.0.4)
     erubis (2.7.0)
     hike (1.2.3)
